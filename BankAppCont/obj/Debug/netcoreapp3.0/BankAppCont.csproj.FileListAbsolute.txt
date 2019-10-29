@@ -1,0 +1,11 @@
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\bin\Debug\netcoreapp3.0\BankAppCont.exe
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\bin\Debug\netcoreapp3.0\BankAppCont.deps.json
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\bin\Debug\netcoreapp3.0\BankAppCont.runtimeconfig.json
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\bin\Debug\netcoreapp3.0\BankAppCont.runtimeconfig.dev.json
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\bin\Debug\netcoreapp3.0\BankAppCont.dll
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\bin\Debug\netcoreapp3.0\BankAppCont.pdb
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\obj\Debug\netcoreapp3.0\BankAppCont.csprojAssemblyReference.cache
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\obj\Debug\netcoreapp3.0\BankAppCont.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\obj\Debug\netcoreapp3.0\BankAppCont.AssemblyInfo.cs
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\obj\Debug\netcoreapp3.0\BankAppCont.dll
+C:\Users\james\source\repos\Oct15\NetBankingApp\BankAppCont\obj\Debug\netcoreapp3.0\BankAppCont.pdb
